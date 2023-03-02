@@ -41,6 +41,9 @@ p{
     margin-left: 20px;
     margin-top: 20px;
 }
+.underline{
+    text-decoration: underline black;
+}
 table,th,tr{
     border: 1px solid;
     font-size: 1.4rem;
