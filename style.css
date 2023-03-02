@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+header{
+    background-color: rgb(234, 234, 194);
+    margin: 0;
+    height: 100vh;
+}
+.header-div{
+    display: flex;
+    justify-content: center;
+}
+.header-img{
+    border-radius: 100%;
+    width: 50%;
+    margin: .5% auto;
+}
+h1{
+    text-align: center;
+    padding: 10px auto;
+    font-family: 'Merriweather', serif;
+    font-size: 3.5rem;
+}
+main{
+    margin: 0 20px;
+}
+h2{
+    text-align: left;
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+}
+p{
+    font-size: 1.3rem;
+}
+.early-img{
+    width: 21%;
+    float: right;
+    margin-right: 5px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+table,th,tr{
+    border: 1px solid;
+    font-size: 1.4rem;
+    text-align: center;
+    width: 85%;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+    table-layout: fixed;
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
