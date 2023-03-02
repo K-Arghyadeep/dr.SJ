@@ -42,7 +42,7 @@ p{
     margin-top: 20px;
 }
 .underline{
-    text-decoration: underline black;
+    text-decoration: underline;
 }
 table,th,tr{
     border: 1px solid;
